@@ -1,7 +1,7 @@
 # sum pridict program
 
 playerName = input("Please enter your name: ")
-print(f'Hello {playerName} this program ask to you enter two digit number between 10 and 99. once you \
+print(f'Hello {playerName} this program ask to you enter two digit number between 12 and 99. once you \
     enter the number it will predict the total sum that based on the number you are going enter ')
 
 num = int(input("Please enter first number: "))
